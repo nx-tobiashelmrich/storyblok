@@ -1,0 +1,19 @@
+{
+  "name": "next-js-ulimtate-tutorial",
+  "version": "1.0.0",
+  "description": "Next.js Storyblok Ultimate Tutorial",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@storyblok/react": "2.0.3",
+    "axios": "1.2.2",
+    "next": "13.1.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
